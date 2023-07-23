@@ -3,15 +3,13 @@
 **Authors**: Celestine A. Imelda
 
 ## Overview
-
-This project aims to analyze three datasets: "bom.movie_gross.csv," "title.akas.csv," and "title.ratings.csv." Its goal is to assist a movie production company in making optimized movie decisions and effective marketing strategies. By handling missing values, standardizing titles, and merging relevant data, the project seeks to identify patterns and relationships between movie revenue, ratings, and other factors. By providing actionable recommendations based on the analysis, the movie production company can enhance movie quality, target specific markets, and improve financial success and audience satisfaction in a competitive film industry.
+Three datasets—bom.movie_gross.csv, title.basics.csv, and title.ratings.csv—will be analyzed as part of the project named "Exploring Movie Gross Earnings, Ratings, and Genre Trends" in order to get insights. The focus of the examination will be on the financial performance of films and how much money they made overall. The research will also examine movie ratings, taking into account both audience and critic ratings, in order to comprehend how public perception and financial success are related. In addition, a study of film genres will be done to spot trends and patterns and discover which genres tend to succeed in the constantly changing film industry. The initiative aims to deepen our understanding of the elements that influence success in the film industry by offering insightful information about the relationships between movie earnings, ratings, and genre preferences.
 
 ## Business Problem
 
 This data analysis project aims to optimize movie-making decisions and marketing strategies for a production company by maximizing profitability and audience satisfaction. Insights from the data will guide decision-making, aligning with company objectives and minimizing investment risks.
 
 ## Data
-
 This project's data is derived from three datasets: bom.movie_gross.csv, title.akas.csv, and title.ratings.csv.
 
 This dataset, bom.movie_gross.csv, which will help with revenue creation, comprises data on movie titles and their accompanying domestic and international gross revenues.
@@ -24,27 +22,21 @@ Sample and Data Representation
 
 The information in the statistics pertains to numerous movie releases and their performance indicators.
 
+
 ## Methods
 
-The approach of conducting descriptive analysis is appropriate given the data and the business problem because it provides an initial understanding of the dataset's characteristics, uncovers patterns, and informs subsequent steps of the analysis. Descriptive analysis is essential for identifying potential trends and factors influencing movie success, guiding further modeling or in-depth analysis in later phases. It helps the production company make informed decisions and prioritize their efforts to achieve the desired goals of maximizing profitability and audience satisfaction.
+The approach of conducting descriptive analysis is appropriate given the data and the business problem because it provides an initial understanding of the dataset's characteristics, uncovers patterns, and informs subsequent steps of the analysis. Descriptive analysis is essential for identifying potential trends and factors influencing movie success, guiding further modeling or in-depth analysis in later phases. It helps the production company make informed decisions and prioritize their efforts to achieve the desired goals of maximizing profitability and audience satisfaction, the use of box plots, graphs and heat map have also helped with an easier understanding of the data.
 
 ## Results
 
-Interpretation of Results:
-The descriptive analysis provides valuable insights into the factors impacting movie success. It highlights the importance of movie genres, release years, production budgets, and regional adaptations in achieving higher revenue and audience satisfaction. Understanding these patterns can aid in making data-driven decisions to optimize movie-making strategies and marketing efforts.
-
-Generalization of Results:
-While the descriptive analysis provides valuable insights from the current dataset, it is essential to acknowledge that these findings may not fully generalize beyond this specific data. Factors influencing movie success can be dynamic and subject to change over time and across different contexts. Further analysis and validation with additional datasets and external sources would enhance the confidence and broader applicability of the results.
-Here is an example of how to embed images from your sub-folder:
+The descriptive analysis offers valuable insights into the key factors affecting movie success, including genre preferences, release years, production budgets, and regional adaptations. These findings can serve as a basis for data-driven decision-making to optimize movie production and marketing strategies. However, it is crucial to acknowledge that the results may not fully generalize beyond the current dataset
 
 ### Visual 1
 ![graph1](./images/viz1.png)
 
 ## Conclusions
 
-Conclusions:
-
-The descriptive analysis provides valuable insights for the movie production company. Recommendations include focusing on successful genres, strategic release planning, optimizing budget allocation, and tailoring marketing strategies to regional preferences.
+Based on the analysis performed, I recommend the business to focus on producing movies that align with popular genres and have a track record of higher audience satisfaction and revenue. The findings highlight the importance of investing in movies with larger production budgets, as they tend to perform better financially. 
 
 Limitations and Next Steps:
 
