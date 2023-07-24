@@ -1,9 +1,9 @@
-# Movie Revenue Analysis:Maximizing Profitability and Audience Satisfaction
+# Exploring Movie Gross Earnings, Ratings, and Genre Trends
 
 **Authors**: Celestine A. Imelda
 
 ## Overview
-Three datasets—bom.movie_gross.csv, title.basics.csv, and title.ratings.csv—will be analyzed as part of the project named "Exploring Movie Gross Earnings, Ratings, and Genre Trends" in order to get insights. The focus of the examination will be on the financial performance of films and how much money they made overall. The research will also examine movie ratings, taking into account both audience and critic ratings, in order to comprehend how public perception and financial success are related. In addition, a study of film genres will be done to spot trends and patterns and discover which genres tend to succeed in the constantly changing film industry. The initiative aims to deepen our understanding of the elements that influence success in the film industry by offering insightful information about the relationships between movie earnings, ratings, and genre preferences.
+Three datasets— bom.movie_gross.csv, title.basics.csv, and title.ratings.csv —will be analyzed as part of the project named "Exploring Movie Gross Earnings, Ratings, and Genre Trends" in order to get insights. The focus of the examination will be on the financial performance of films and how much money they made overall. The research will also examine movie ratings, taking into account both audience and critic ratings, in order to comprehend how public perception and financial success are related. In addition, a study of film genres will be done to spot trends and patterns and discover which genres tend to succeed in the constantly changing film industry. The initiative aims to deepen our understanding of the elements that influence success in the film industry by offering insightful information about the relationships between movie earnings, ratings, and genre preferences.
 
 ## Business Problem
 
@@ -32,7 +32,8 @@ The approach of conducting descriptive analysis is appropriate given the data an
 The descriptive analysis offers valuable insights into the key factors affecting movie success, including genre preferences, release years, production budgets, and regional adaptations. These findings can serve as a basis for data-driven decision-making to optimize movie production and marketing strategies. However, it is crucial to acknowledge that the results may not fully generalize beyond the current dataset
 
 ### Visual 1
-![graph1](./images/viz1.png)
+![image](https://github.com/celestineolewe/dsc-phase-1-project/assets/132938391/43174b96-0292-498b-9fe4-ba5f53a8820e)
+
 
 ## Conclusions
 
@@ -47,7 +48,7 @@ Future work may involve predictive modeling, audience segmentation, and longitud
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact **name & email, name & email**
 
