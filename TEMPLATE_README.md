@@ -1,4 +1,4 @@
-# Movie Revenue Analysis: Maximizing Profitability and Audience Satisfaction
+# Exploring Movie Gross Earnings, Ratings, and Genre Trends
 
 **Authors**: Celestine A. Imelda
 
